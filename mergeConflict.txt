@@ -1,1 +1,1 @@
-This is a 3rd attempt at creating a merge conflict
+This is the 2nd part to create the conflict
